@@ -6,11 +6,11 @@
 
 
 
-| Dataset                                                      | Test Accuracy | Notebook                                                     | Model                           | Frameworks        |
-| ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ | ------------------------------- | ----------------- |
-| [mnist (tensorflow)](https://www.tensorflow.org/datasets/catalog/mnist) | 99.25%        | [simple_mnist_keras_covnet.ipynb](./image-datasets/mnist/simple_mnist_keras_covnet.ipynb) | simple 4 layer CNN with dropout | Keras, Tensorflow |
-|                                                              |               |                                                              |                                 |                   |
-|                                                              |               |                                                              |                                 |                   |
+| Dataset                                                      | Test Accuracy | Task                 | Notebook                                                     | Model                           | Frameworks        |
+| ------------------------------------------------------------ | ------------- | -------------------- | ------------------------------------------------------------ | ------------------------------- | ----------------- |
+| [mnist](https://www.tensorflow.org/datasets/catalog/mnist)   | 99.25%        | Image classification | [simple_mnist_keras_covnet.ipynb](./image-datasets/mnist/simple_mnist_keras_covnet.ipynb) | simple 4 layer CNN with dropout | Keras, Tensorflow |
+| [imdb](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) | 85.61%        | Sentiment analysis   | [sentiment-analysis-using-lstm-pytorch.ipynb](./nlp-datasets/imdb/sentiment-analysis-using-lstm-pytorch.ipynb) | LSTM                            | PyTorch           |
+|                                                              |               |                      |                                                              |                                 |                   |
 
 
 
@@ -30,5 +30,6 @@
   * Iris Flow Dataset
   * Breast Cancer Wisconsin (Diagnostic) Dataset [source](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic))
 * **NLP**
+  * IMDB Dataset of 50K Movie Reviews [source](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
   * Twitter Sentiment Analysis Dataset [source](https://www.kaggle.com/datasets/kazanova/sentiment140)
 

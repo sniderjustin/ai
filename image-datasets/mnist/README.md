@@ -1,4 +1,4 @@
-# mnist
+# mnist dataset
 
 
 
