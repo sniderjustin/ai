@@ -1,6 +1,6 @@
 # ai
 
-The **ai** repository is a place to gather important research on ai. Here you will find useful code, datasets, and links to research papers. I test solutions to AI problems and post the results. All results shown are results I was able to run and verify myself. 
+The **AI** repository is a place to gather important research on AI. Here you will find useful code, datasets, and links to research papers. I test solutions to AI problems and post the results. All results shown are results I have run and verify myself. 
 
 
 
@@ -34,4 +34,10 @@ The **ai** repository is a place to gather important research on ai. Here you wi
 * **NLP**
   * IMDB Dataset of 50K Movie Reviews [source](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
   * Twitter Sentiment Analysis Dataset [source](https://www.kaggle.com/datasets/kazanova/sentiment140)
+
+
+
+## Research Papers
+
+
 
