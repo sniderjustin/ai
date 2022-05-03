@@ -1,5 +1,7 @@
 # ai
 
+The **ai** repository is a place to gather important research on ai. Here you will find useful code, datasets, and links to research papers. I test solutions to AI problems and post the results. All results shown are results I was able to run and verify myself. 
+
 
 
 ## Scoreboard
