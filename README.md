@@ -8,12 +8,11 @@ The **AI** repository is a place to gather important research on the topic. Here
 
 
 
-| Dataset                                                      | Metrics              | Task                 | Notebook                                                     | Model                           | Frameworks        |
-| ------------------------------------------------------------ | -------------------- | -------------------- | ------------------------------------------------------------ | ------------------------------- | ----------------- |
-| [mnist](https://www.tensorflow.org/datasets/catalog/mnist)   | 99.25% Test Accuracy | Image classification | [simple_mnist_keras_covnet.ipynb](./image-datasets/mnist/simple_mnist_keras_covnet.ipynb) | simple 4 layer CNN with dropout | Keras, Tensorflow |
-| [imdb](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) | 85.61% Test Accuracy | Sentiment analysis   | [sentiment-analysis-using-lstm-pytorch.ipynb](./nlp-datasets/imdb/sentiment-analysis-using-lstm-pytorch.ipynb) | LSTM                            | PyTorch           |
-| [deskdrop](https://www.kaggle.com/datasets/gspmoreira/articles-sharing-reading-from-cit-deskdrop) | Recall@5 of 0.2417   | Recommendation       | [recommender-system.ipynb](./recommender-datasets/deskdrop/recommender-system.ipynb) | Popularity Model                |                   |
-| [deskdrop](https://www.kaggle.com/datasets/gspmoreira/articles-sharing-reading-from-cit-deskdrop) | Recall@5 of 0.1628   | Recommendation       | [recommender-system.ipynb](./recommender-datasets/deskdrop/recommender-system.ipynb) | Content-Based Filtering Model   |                   |
+| Dataset                                                      | Metrics              | Task                 | Notebook                                                     | Model                                   | Frameworks        |
+| ------------------------------------------------------------ | -------------------- | -------------------- | ------------------------------------------------------------ | --------------------------------------- | ----------------- |
+| [mnist](https://www.tensorflow.org/datasets/catalog/mnist)   | 99.25% Test Accuracy | Image classification | [simple_mnist_keras_covnet.ipynb](./image-datasets/mnist/simple_mnist_keras_covnet.ipynb) | simple 4 layer CNN with dropout         | Keras, Tensorflow |
+| [imdb](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) | 85.61% Test Accuracy | Sentiment analysis   | [sentiment-analysis-using-lstm-pytorch.ipynb](./nlp-datasets/imdb/sentiment-analysis-using-lstm-pytorch.ipynb) | LSTM                                    | PyTorch           |
+| [deskdrop](https://www.kaggle.com/datasets/gspmoreira/articles-sharing-reading-from-cit-deskdrop) | Recall@5 of 0.3426   | Recommendation       | [recommender-system.ipynb](./recommender-datasets/deskdrop/recommender-system.ipynb) | Hybrid: Collaborative and Content-Based | Numpy, Pandas     |
 
 
 
