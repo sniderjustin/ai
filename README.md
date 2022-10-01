@@ -16,9 +16,34 @@ The **AI** repository is a place to gather important research on the topic. Here
 
 
 
+## Examples
+
+[face_detection.ipynb](./examples/face_detection.ipynb): A Jupyter notebook demonstrating four different face detection strategies. Run and tested using Google Colab. 
+
+
+
 ## Datasets
 
 
+
+### Dataset Sources
+
+* [Scikit Learn Real world datasets](https://scikit-learn.org/stable/datasets/real_world.html)
+
+* [TensorFlow Datasets](https://www.tensorflow.org/datasets)
+* [PyTorch Datasets](https://pytorch.org/vision/stable/datasets.html)
+* [Kaggle Datasets](https://www.kaggle.com/datasets)
+* [Google Dataset Search](https://datasetsearch.research.google.com/)
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+* [Papers with Code](https://paperswithcode.com/datasets)
+* [OpenML](https://www.openml.org/)
+* [Hugging Face Datasets](https://huggingface.co/datasets)
+
+
+
+
+
+### Datasets by Category
 
 * **Image Datasets**
   * ImageNet Dataset
@@ -39,6 +64,28 @@ The **AI** repository is a place to gather important research on the topic. Here
 
 
 
+## Machine Learning Examples
+
+* [Papers With Code](https://paperswithcode.com/)
+* [Hugging Face](https://huggingface.co/)
+* [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
+* [PyTorch Tutorials](https://pytorch.org/tutorials/)
+* [Spark ML Guide](https://spark.apache.org/docs/1.2.2/ml-guide.html)
+* [Keras Code Examples](https://keras.io/examples/)
+
+
+
+## Model Sources
+
+* [TensorFlow Hub](https://tfhub.dev/)
+* [Hugging Face Models](https://huggingface.co/models)
+* [PyTorch Hub](https://pytorch.org/hub/)
+* [PyTorch Zoo](https://pytorch.org/serve/model_zoo.html)
+
+
+
+
+
 ## Research Papers
 
 
@@ -54,6 +101,22 @@ The **AI** repository is a place to gather important research on the topic. Here
 
 * 3D Points
   * [PointCNN: Convolution on X-Transformed Points](https://arxiv.org/abs/1801.07791)
+* Face Recognition
+  * [MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition](https://paperswithcode.com/paper/ms-celeb-1m-a-dataset-and-benchmark-for-large)
+  * [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://paperswithcode.com/paper/facenet-a-unified-embedding-for-face)
+  * [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://paperswithcode.com/paper/arcface-additive-angular-margin-loss-for-deep)
+
+
+
+
+## Frameworks
+
+* [TensorFlow](https://www.tensorflow.org/)
+* [PyTorch](https://pytorch.org/)
+* [MXNet](https://mxnet.apache.org/versions/1.9.1/)
+* [Caffe](https://caffe.berkeleyvision.org/)
+* [OpenCV](https://opencv.org/)
+* [scikit-learn](https://scikit-learn.org/stable/index.html)
 
 
 
