@@ -129,3 +129,9 @@ The **AI** repository is a place to gather important research on the topic. Here
 * Answers the question: "How many relevant items are retrieved?"
 * $\text{recall}=\frac{\text{true positives}}{\text{false negatives}+\text{true positives}}$
 
+## Concpets
+
+See the [concepts](concepts) folder for explanation of important AI concepts.
+
+
+
